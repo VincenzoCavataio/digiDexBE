@@ -1,0 +1,26 @@
+{
+  "name": "digidex",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./electron/run.js",
+  "scripts": {
+    "start": "concurrently --kill-others \"cd FE && npm run start\" \"cd BE && node index.js\"",
+    "electron": "electron ."
+  },
+  "devDependencies": {
+    "concurrently": "^6.0.0",
+    "electron": "^11.3.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.2",
+    "os": "^0.1.1",
+    "url": "^0.11.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

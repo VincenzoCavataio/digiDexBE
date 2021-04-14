@@ -1,0 +1,1920 @@
+[
+    {
+        "url":"/min/botamon.png",
+        "name": "botamon",
+        "level": "fresh",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [],
+        "to": [
+            "koromon"
+        ]
+    },
+    {
+        "url":"/min/poyomon.png",
+        "name": "poyomon",
+        "level": "fresh",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [],
+        "to": [
+            "tokomon"
+        ]
+    },
+    {
+        "url":"/min/punimon.png",
+        "name": "punimon",
+        "level": "fresh",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [],
+        "to": [
+            "tsunomon"
+        ]
+    },
+    {
+        "url":"/min/yuramon.png",
+        "name": "yuramon",
+        "level": "fresh",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [],
+        "to": [
+            "tanemon"
+        ]
+    },
+    {
+        "url":"/min/koromon.png",
+        "name": "koromon",
+        "level": "training",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "botamon"
+        ],
+        "to": [
+            "agumon",
+            "gabumon"
+        ]
+    },
+    {
+        "url":"/min/tokomon.png",
+        "name": "tokomon",
+        "level": "training",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "poyomon"
+        ],
+        "to": [
+            "patamon",
+            "biyomon"
+        ]
+    },
+    {
+        "url":"/min/tsunomon.png",
+        "name": "tsunomon",
+        "level": "training",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "punimon"
+        ],
+        "to": [
+            "elecmon",
+            "penguinmon"
+        ]
+    },
+    {
+        "url":"/min/tanemon.png",
+        "name": "tanemon",
+        "level": "training",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "yuramon"
+        ],
+        "to": [
+            "palmon",
+            "betamon"
+        ]
+    },
+    {
+        "url":"/min/agumon.png",
+        "name": "agumon",
+        "level": "rookie",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "100",
+            "mp": "100",
+            "off": "10",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "10-20",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "koromon"
+        ],
+        "to": [
+            "greymon",
+            "meramon",
+            "birdramon",
+            "centarumon",
+            "monochromon",
+            "tyrannomon"
+        ]
+    },
+    {
+        "url":"/min/gabumon.png",
+        "name": "gabumon",
+        "level": "rookie",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "10",
+            "spd": "10",
+            "brn": "10",
+            "errors": "",
+            "weight": "10-20",
+            "happiness": "",
+            "disciple": "",
+            "battles": "2 min"
+        },
+        "from": [
+            "koromon"
+        ],
+        "to": [
+            "centarumon",
+            "monochromon",
+            "drimogemon",
+            "ogremon",
+            "garurumon",
+            "tyrannomon"
+        ]
+    },
+    {
+        "url":"/min/patamon.png",
+        "name": "patamon",
+        "level": "rookie",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "100",
+            "mp": "",
+            "off": "10",
+            "def": "",
+            "spd": "",
+            "brn": "10",
+            "errors": "",
+            "weight": "15",
+            "happiness": "",
+            "disciple": "",
+            "battles": "2 min"
+        },
+        "from": [
+            "tokomon"
+        ],
+        "to": [
+            "drimogemon",
+            "tyrannomon",
+            "ogremon",
+            "leomon",
+            "angemon",
+            "unimon"
+        ]
+    },
+    {
+        "url":"/min/elecmon.png",
+        "name": "elecmon",
+        "level": "rookie",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "100",
+            "mp": "",
+            "off": "10",
+            "def": "",
+            "spd": "10",
+            "brn": "",
+            "errors": "",
+            "weight": "15",
+            "happiness": "",
+            "disciple": "",
+            "battles": "2 min"
+        },
+        "from": [
+            "tsunomon"
+        ],
+        "to": [
+            "leomon",
+            "angemon",
+            "bakemon",
+            "kokatorimon"
+        ]
+    },
+    {
+        "url":"/min/biyomon.png",
+        "name": "biyomon",
+        "level": "rookie",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "100",
+            "off": "",
+            "def": "10",
+            "spd": "10",
+            "brn": "",
+            "errors": "",
+            "weight": "15",
+            "happiness": "",
+            "disciple": "",
+            "battles": "2 min"
+        },
+        "from": [
+            "tokomon"
+        ],
+        "to": [
+            "birdramon",
+            "airdramon",
+            "kokatorimon",
+            "unimon",
+            "kabuterimon"
+        ]
+    },
+    {
+        "url":"/min/kunemon.png",
+        "name": "kunemon",
+        "level": "rookie",
+        "special": {
+            "isSpecial": true,
+            "from": [],
+            "condition": "sleep in Kunemon's bed",
+            "chance": "50"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [],
+        "to": [
+            "bakemon",
+            "kabuterimon",
+            "kuwagamon",
+            "vegiemon"
+        ]
+    },
+    {
+        "url":"/min/palmon.png",
+        "name": "palmon",
+        "level": "rookie",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "100",
+            "off": "",
+            "def": "",
+            "spd": "10",
+            "brn": "10",
+            "errors": "",
+            "weight": "15",
+            "happiness": "",
+            "disciple": "",
+            "battles": "2 min"
+        },
+        "from": [
+            "tanemon"
+        ],
+        "to": [
+            "kuwagamon",
+            "vegiemon",
+            "ninjamon",
+            "whamon",
+            "coelamon"
+        ]
+    },
+    {
+        "url":"/min/betamon.png",
+        "name": "betamon",
+        "level": "rookie",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "100",
+            "mp": "100",
+            "off": "",
+            "def": "10",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "15",
+            "happiness": "",
+            "disciple": "",
+            "battles": "2 min"
+        },
+        "from": [
+            "tanemon"
+        ],
+        "to": [
+            "seadramon",
+            "whamon",
+            "shellmon",
+            "coelamon"
+        ]
+    },
+    {
+        "url":"/min/penguinmon.png",
+        "name": "penguinmon",
+        "level": "rookie",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "100",
+            "off": "",
+            "def": "10",
+            "spd": "",
+            "brn": "10",
+            "errors": "",
+            "weight": "15",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "tsunomon"
+        ],
+        "to": [
+            "whamon",
+            "shellmon",
+            "garurumon",
+            "frigmon",
+            "mojyamon"
+        ]
+    },
+    {
+        "url":"/min/greymon.png",
+        "name": "greymon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "100",
+            "def": "100",
+            "spd": "100",
+            "brn": "100",
+            "errors": "1 max",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "90 min",
+            "battles": ""
+        },
+        "from": [
+            "agumon"
+        ],
+        "to": [
+            "metalgreymon",
+            "skullgreymon"
+        ]
+    },
+    {
+        "url":"/min/meramon.png",
+        "name": "meramon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "100",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "5 min",
+            "weight": "15 - 25",
+            "happiness": "",
+            "disciple": "",
+            "battles": "10 min"
+        },
+        "from": [
+            "agumon"
+        ],
+        "to": [
+            "metalgreymon",
+            "andromon"
+        ]
+    },
+    {
+        "url":"/min/birdramon.png",
+        "name": "birdramon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "100",
+            "brn": "",
+            "errors": "min 3",
+            "weight": "15 - 25",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "agumon",
+            "biyomon"
+        ],
+        "to": [
+            "phoenixmon"
+        ]
+    },
+    {
+        "url":"/min/centarumon.png",
+        "name": "centarumon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "100",
+            "errors": "3 max",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "60 min",
+            "battles": ""
+        },
+        "from": [
+            "agumon",
+            "gabumon"
+        ],
+        "to": [
+            "andromon",
+            "giromon"
+        ]
+    },
+    {
+        "url":"/min/monochromon.png",
+        "name": "monochromon",
+        "level": "champion",
+        "special": {
+            "isSpecial": true,
+            "from": [
+                "Drimogemon"
+            ],
+            "condition": "sleep with 100 discipline and ≥500 defense",
+            "chance": "30"
+        },
+        "stats": {
+            "hp": "1000",
+            "mp": "",
+            "off": "",
+            "def": "100",
+            "spd": "",
+            "brn": "100",
+            "errors": "3 max",
+            "weight": "35 - 45",
+            "happiness": "",
+            "disciple": "",
+            "battles": "max 5"
+        },
+        "from": [
+            "agumon",
+            "gabumon"
+        ],
+        "to": [
+            "metalgreymon",
+            "metalmamemon"
+        ]
+    },
+    {
+        "url":"/min/drimogemon.png",
+        "name": "drimogemon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "100",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "3 min",
+            "weight": "35 - 45",
+            "happiness": "50 min",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "gabumon",
+            "patamon"
+        ],
+        "to": [
+            "metalgreymon"
+        ]
+    },
+    {
+        "url":"/min/tyrannomon.png",
+        "name": "tyrannomon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "1000",
+            "mp": "",
+            "off": "",
+            "def": "100",
+            "spd": "",
+            "brn": "",
+            "errors": "5 max",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "",
+            "battles": "5 max"
+        },
+        "from": [
+            "agumon",
+            "gabumon",
+            "patamon"
+        ],
+        "to": [
+            "metalgreymon",
+            "megadramon"
+        ]
+    },
+    {
+        "url":"/min/devimon.png",
+        "name": "devimon",
+        "level": "champion",
+        "special": {
+            "isSpecial": true,
+            "from": [
+                "angemon"
+            ],
+            "condition": "losing a life with a discipline <= 50",
+            "chance": "50"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [],
+        "to": [
+            "skullgreymon",
+            "megadramon"
+        ]
+    },
+    {
+        "url":"/min/ogremon.png",
+        "name": "ogremon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "1000",
+            "mp": "",
+            "off": "100",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "5 max",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "",
+            "battles": "15 min"
+        },
+        "from": [
+            "gabumon",
+            "patamon"
+        ],
+        "to": [
+            "andromon",
+            "giromon"
+        ]
+    },
+    {
+        "url":"/min/leomon.png",
+        "name": "leomon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "100",
+            "def": "",
+            "spd": "100",
+            "brn": "100",
+            "errors": "1 max",
+            "weight": "15 - 25",
+            "happiness": "",
+            "disciple": "",
+            "battles": "10 min"
+        },
+        "from": [
+            "patamon",
+            "elecmon"
+        ],
+        "to": [
+            "andromon",
+            "mamemon"
+        ]
+    },
+    {
+        "url":"/min/angemon.png",
+        "name": "angemon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "1000",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "100",
+            "errors": "0",
+            "weight": "15 - 25",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "patamon",
+            "elecmon"
+        ],
+        "to": [
+            "andromon",
+            "phoenixmon"
+        ]
+    },
+    {
+        "url":"/min/bakemon.png",
+        "name": "bakemon",
+        "level": "champion",
+        "special": {
+            "isSpecial": true,
+            "from": [],
+            "condition": "except Penguinmon, losing a life",
+            "chance": "10"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "1000",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "min 3",
+            "weight": "15 - 25",
+            "happiness": "50 min",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "elecmon",
+            "kunemon"
+        ],
+        "to": [
+            "skullgreymon",
+            "giromon"
+        ]
+    },
+    {
+        "url":"/min/airdramon.png",
+        "name": "airdramon",
+        "level": "champion",
+        "special": {
+            "isSpecial": true,
+            "from": [
+                "seadramon",
+                "birdramon"
+            ],
+            "condition": "Sleep with 100 discipline, 100 happiness and 0 tiredness",
+            "chance": "30"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "1000",
+            "off": "",
+            "def": "",
+            "spd": "100",
+            "brn": "100",
+            "errors": "1 max",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "min 90",
+            "battles": ""
+        },
+        "from": [
+            "biyomon"
+        ],
+        "to": [
+            "megadramon",
+            "phoenixmon"
+        ]
+    },
+    {
+        "url":"/min/kokatorimon.png",
+        "name": "kokatorimon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "100",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "3 min",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "elecmon",
+            "biyomon"
+        ],
+        "to": [
+            "phoenixmon",
+            "piximon"
+        ]
+    },
+    {
+        "url":"/min/unimon.png",
+        "name": "unimon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "1000",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "100",
+            "brn": "",
+            "errors": "3 max",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "",
+            "battles": "10 min"
+        },
+        "from": [
+            "patamo",
+            "biyomon"
+        ],
+        "to": [
+            "giromon",
+            "phoenixmon"
+        ]
+    },
+    {
+        "url":"/min/kabuterimon.png",
+        "name": "kabuterimon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "1000",
+            "mp": "1000",
+            "off": "100",
+            "def": "",
+            "spd": "100",
+            "brn": "",
+            "errors": "1 max",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "biyomon",
+            "kunemon"
+        ],
+        "to": [
+            "hkabuterimon",
+            "metalmamemon"
+        ]
+    },
+    {
+        "url":"/min/kuwagamon.png",
+        "name": "kuwagamon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "1000",
+            "mp": "1000",
+            "off": "100",
+            "def": "",
+            "spd": "100",
+            "brn": "",
+            "errors": "5 min",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "kunemon",
+            "palmon"
+        ],
+        "to": [
+            "hkabuterimon",
+            "piximon"
+        ]
+    },
+    {
+        "url":"/min/vegiemon.png",
+        "name": "vegiemon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "1000",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "5 min",
+            "weight": "5 - 15",
+            "happiness": "50 min",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "kunemon",
+            "palmon"
+        ],
+        "to": [
+            "piximon"
+        ]
+    },
+    {
+        "url":"/min/ninjamon.png",
+        "name": "ninjamon",
+        "level": "champion",
+        "special": {
+            "isSpecial": true,
+            "from": [
+                "vegiemon"
+            ],
+            "condition": "sleep with 100 discipline and ≥50 won battles",
+            "chance": "30"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "1000",
+            "off": "100",
+            "def": "",
+            "spd": "100",
+            "brn": "",
+            "errors": "1 max",
+            "weight": "5 - 15",
+            "happiness": "",
+            "disciple": "",
+            "battles": "15 min"
+        },
+        "from": [
+            "palmon"
+        ],
+        "to": [
+            "piximon",
+            "metalmamemon",
+            "mamemon"
+        ]
+    },
+    {
+        "url":"/min/seadramon.png",
+        "name": "seadramon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "1000",
+            "mp": "1000",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "3 min",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "",
+            "battles": "5 max"
+        },
+        "from": [
+            "betamon"
+        ],
+        "to": [
+            "megadramon",
+            "megaseadramon"
+        ]
+    },
+    {
+        "url":"/min/whamon.png",
+        "name": "whamon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "1000",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "100",
+            "errors": "5 max",
+            "weight": "35 - 45",
+            "happiness": "",
+            "disciple": "60 min",
+            "battles": ""
+        },
+        "from": [
+            "palmon",
+            "betamon",
+            "penguinmon"
+        ],
+        "to": [
+            "megadramon",
+            "mamemon"
+        ]
+    },
+    {
+        "url":"/min/shellmon.png",
+        "name": "shellmon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "1000",
+            "mp": "",
+            "off": "",
+            "def": "100",
+            "spd": "",
+            "brn": "",
+            "errors": "5 max",
+            "weight": "35 - 45",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "betamon",
+            "penguinmon"
+        ],
+        "to": [
+            "hkabuterimon",
+            "megaseadramon"
+        ]
+    },
+    {
+        "url":"/min/coelamon.png",
+        "name": "coelamon",
+        "level": "champion",
+        "special": {
+            "isSpecial": true,
+            "from": [
+                "whamon",
+                "shellmon"
+            ],
+            "condition": "scold or praise with an evolution counter of exactly 200h",
+            "chance": "30"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "100",
+            "spd": "",
+            "brn": "",
+            "errors": "3 max",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": "5 max"
+        },
+        "from": [
+            "palmon",
+            "betamon"
+        ],
+        "to": [
+            "megaseadramon"
+        ]
+    },
+    {
+        "url":"/min/garurumon.png",
+        "name": "garurumon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "1000",
+            "off": "",
+            "def": "",
+            "spd": "100",
+            "brn": "",
+            "errors": "1 max",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "90 min",
+            "battles": ""
+        },
+        "from": [
+            "gabumon",
+            "penguinmon"
+        ],
+        "to": [
+            "skullgreymon",
+            "megaseadramon"
+        ]
+    },
+    {
+        "url":"/min/frigmon.png",
+        "name": "frigmon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "1000",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "100",
+            "errors": "5 max",
+            "weight": "25 - 35",
+            "happiness": "50 min",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "penguinmon"
+        ],
+        "to": [
+            "metalmamemon",
+            "mamemon"
+        ]
+    },
+    {
+        "url":"/min/moiyamon.png",
+        "name": "moiyamon",
+        "level": "champion",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "1000",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "5 min",
+            "weight": "15 - 25",
+            "happiness": "",
+            "disciple": "",
+            "battles": "5 max"
+        },
+        "from": [
+            "penguinmon"
+        ],
+        "to": [
+            "skullgreymon",
+            "mamemon"
+        ]
+    },
+    {
+        "url":"/min/numemon.png",
+        "name": "numemon",
+        "level": "champion",
+        "special": {
+            "isSpecial": true,
+            "from": [],
+            "condition": "after 96h on Rookie level. Reduces stats by 20%",
+            "chance": "100"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [],
+        "to": [
+            "monzaemon"
+        ]
+    },
+    {
+        "url":"/min/sukamon.png",
+        "name": "sukamon",
+        "level": "champion",
+        "special": {
+            "isSpecial": true,
+            "from": [],
+            "condition": "full Virus Bar. 50% stats reduction",
+            "chance": "100"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [],
+        "to": [
+            "etemon"
+        ]
+    },
+    {
+        "url":"/min/nanimon.png",
+        "name": "nanimon",
+        "level": "champion",
+        "special": {
+            "isSpecial": true,
+            "from": [],
+            "condition": "Scolding your Digimon with 0 happiness and 0 discipline. No statsgains",
+            "chance": "100"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [],
+        "to": [
+            "digitamamon"
+        ]
+    },
+    {
+        "url":"/min/metalgreymon.png",
+        "name": "metalgreymon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "4000",
+            "mp": "3000",
+            "off": "500",
+            "def": "500",
+            "spd": "300",
+            "brn": "300",
+            "errors": "10 max",
+            "weight": "60 - 70",
+            "happiness": "",
+            "disciple": "90 min",
+            "battles": "30 min"
+        },
+        "from": [
+            "greymon",
+            "meramon",
+            "monochromon",
+            "drimogemon",
+            "tyrannomon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/andromon.png",
+        "name": "andromon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "2000",
+            "mp": "4000",
+            "off": "200",
+            "def": "400",
+            "spd": "200",
+            "brn": "400",
+            "errors": "5 max",
+            "weight": "35 - 45",
+            "happiness": "",
+            "disciple": "95 min",
+            "battles": "30 min"
+        },
+        "from": [
+            "meramon",
+            "centarumon",
+            "ogremon",
+            "leomon",
+            "angemon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/skullgreymon.png",
+        "name": "skullgreymon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": true,
+            "from": [
+                "MetalGreymon",
+                "Megadramon"
+            ],
+            "condition": "losing a life",
+            "chance": "10"
+        },
+        "stats": {
+            "hp": "4000",
+            "mp": "6000",
+            "off": "400",
+            "def": "400",
+            "spd": "200",
+            "brn": "500",
+            "errors": "10 min",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "",
+            "battles": "40 min"
+        },
+        "from": [
+            "greymon",
+            "devimon",
+            "bakemon",
+            "garurumon",
+            "moiyamon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/megadramon.png",
+        "name": "megadramon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "3000",
+            "mp": "5000",
+            "off": "500",
+            "def": "300",
+            "spd": "400",
+            "brn": "400",
+            "errors": "10 max",
+            "weight": "50 - 60",
+            "happiness": "",
+            "disciple": "",
+            "battles": "30 min"
+        },
+        "from": [
+            "tyrannomon",
+            "devimon",
+            "airdramon",
+            "seadramon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/giromon.png",
+        "name": "giromon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": true,
+            "from": [
+                "Mamemon"
+            ],
+            "condition": "Talk to the single Guardromon in the most norther room of Factorial Town and pay for the 'remodel'",
+            "chance": "1/11"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "400",
+            "def": "",
+            "spd": "300",
+            "brn": "400",
+            "errors": "15 min",
+            "weight": "0 - 15",
+            "happiness": "95 min",
+            "disciple": "",
+            "battles": "100 min"
+        },
+        "from": [
+            "centarumon",
+            "ogremon",
+            "bakemon",
+            "unimon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/hkabuterimon.png",
+        "name": "hkabuterimon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "7000",
+            "mp": "",
+            "off": "400",
+            "def": "600",
+            "spd": "400",
+            "brn": "",
+            "errors": "5 max",
+            "weight": "50 - 60",
+            "happiness": "",
+            "disciple": "100 min",
+            "battles": "0 max"
+        },
+        "from": [
+            "kabuterimon",
+            "kuwagamon",
+            "shellmon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/piximon.png",
+        "name": "piximon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "300",
+            "def": "300",
+            "spd": "400",
+            "brn": "400",
+            "errors": "15 max",
+            "weight": "0 - 15",
+            "happiness": "95 min",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "kokatorimon",
+            "kuwagamon",
+            "vegiemon",
+            "ninjamon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/metalmamemon.png",
+        "name": "metalmamemon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": true,
+            "from": [
+                "Mamemon"
+            ],
+            "condition": "Talk to the single Guardromon in the most norther room of Factorial Town and pay for the 'remodel'",
+            "chance": "5/11"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "500",
+            "def": "400",
+            "spd": "400",
+            "brn": "400",
+            "errors": "15 max",
+            "weight": "5 - 15",
+            "happiness": "95 min",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "monochromon",
+            "kabuterimon",
+            "ninjamon",
+            "frigmon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/mamemon.png",
+        "name": "mamemon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "400",
+            "def": "300",
+            "spd": "300",
+            "brn": "400",
+            "errors": "15 min",
+            "weight": "0 - 10",
+            "happiness": "90 min",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [
+            "leomon",
+            "ninjamon",
+            "whamon",
+            "frigmon",
+            "moiyamon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/megaseadramon.png",
+        "name": "megaseadramon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "",
+            "mp": "4000",
+            "off": "500",
+            "def": "400",
+            "spd": "",
+            "brn": "400",
+            "errors": "5 max",
+            "weight": "25 - 35",
+            "happiness": "",
+            "disciple": "",
+            "battles": "0 max"
+        },
+        "from": [
+            "seadramon",
+            "whamon",
+            "shellmon",
+            "coelamon",
+            "garurumon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/phoenixmon.png",
+        "name": "phoenixmon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": true,
+            "from": [
+                "kokatorimon"
+            ],
+            "condition": "losing a life",
+            "chance": "10"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [],
+        "to": []
+    },
+    {
+        "url":"/min/monzaemon.png",
+        "name": "monzaemon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": true,
+            "from": [
+                "numemon"
+            ],
+            "condition": "talk to the Monzaemon suit in Toy Town. Stops working after beating WaruMonzaemon",
+            "chance": "100"
+        },
+        "stats": {
+            "hp": "3000",
+            "mp": "3000",
+            "off": "300",
+            "def": "300",
+            "spd": "300",
+            "brn": "300",
+            "errors": "0 max",
+            "weight": "35 - 45",
+            "happiness": "",
+            "disciple": "",
+            "battles": "50 min"
+        },
+        "from": [
+            "numemon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/vademon.png",
+        "name": "vademon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": true,
+            "from": [],
+            "condition": "praise or scold with an evolution counter of at least 240h",
+            "chance": "50; 100 in 360h"
+        },
+        "stats": {
+            "hp": "",
+            "mp": "",
+            "off": "",
+            "def": "",
+            "spd": "",
+            "brn": "",
+            "errors": "",
+            "weight": "",
+            "happiness": "",
+            "disciple": "",
+            "battles": ""
+        },
+        "from": [],
+        "to": []
+    },
+    {
+        "url":"/min/digitamamon.png",
+        "name": "digitamamon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "3000",
+            "mp": "3000",
+            "off": "400",
+            "def": "400",
+            "spd": "400",
+            "brn": "300",
+            "errors": "0 max",
+            "weight": "5 - 15",
+            "happiness": "",
+            "disciple": "",
+            "battles": "100 min"
+        },
+        "from": [
+            "nanimon"
+        ],
+        "to": []
+    },
+    {
+        "url":"/min/etemon.png",
+        "name": "etemon",
+        "level": "ultimate",
+        "special": {
+            "isSpecial": false,
+            "from": [],
+            "condition": "",
+            "chance": ""
+        },
+        "stats": {
+            "hp": "2000",
+            "mp": "3000",
+            "off": "400",
+            "def": "200",
+            "spd": "400",
+            "brn": "300",
+            "errors": "0 max",
+            "weight": "10 - 20",
+            "happiness": "",
+            "disciple": "",
+            "battles": "50 min"
+        },
+        "from": [
+            "sukamon"
+        ],
+        "to": []
+    }
+]
