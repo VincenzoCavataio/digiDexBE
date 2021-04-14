@@ -4,7 +4,7 @@
   "private": true,
   "main": "./electron/run.js",
   "scripts": {
-    "start": "concurrently --kill-others \"cd FE && npm run start\" \"cd BE && node index.js\"",
+    "start": "node index.js",
     "electron": "electron ."
   },
   "devDependencies": {
