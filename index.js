@@ -1,6 +1,7 @@
 const express = require('express')
 const app = express()
-const port = process.env.PORT || 8000
+const port = process.env.PORT || 8000;
+const path = require('path');
 const data = require('./data.json')
 var cors = require('cors')
 
@@ -26,7 +27,7 @@ app.get('/digimons', function (req, res) {
 });
 
 app.get('/', function (req, res) {
-  res.send({"allDigimons" : "/digimons", "singleDigimon" : "/digimon/:digimon", "miniatures" : "/min/:digimon.png"})
+  res.sendFile(path.join(__dirname+'/index.html'));
 });
 
 
