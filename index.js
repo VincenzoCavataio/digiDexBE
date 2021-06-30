@@ -25,6 +25,10 @@ app.get('/digimons', function (req, res) {
   res.send(digimons);
 });
 
+app.get('/', function (req, res) {
+  res.send({"allDigimons" : "/digimons", "singleDigimon" : "/digimon/:digimon", "miniatures" : "/min/:digimon.png"})
+});
+
 
 app.listen(port, () => {
   console.log(`Listening at http://localhost:${port}`)
